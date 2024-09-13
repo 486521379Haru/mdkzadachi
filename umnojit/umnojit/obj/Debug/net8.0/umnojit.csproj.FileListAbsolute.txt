@@ -1,0 +1,14 @@
+C:\Users\Student2\source\repos\umnojit\umnojit\bin\Debug\net8.0\umnojit.exe
+C:\Users\Student2\source\repos\umnojit\umnojit\bin\Debug\net8.0\umnojit.deps.json
+C:\Users\Student2\source\repos\umnojit\umnojit\bin\Debug\net8.0\umnojit.runtimeconfig.json
+C:\Users\Student2\source\repos\umnojit\umnojit\bin\Debug\net8.0\umnojit.dll
+C:\Users\Student2\source\repos\umnojit\umnojit\bin\Debug\net8.0\umnojit.pdb
+C:\Users\Student2\source\repos\umnojit\umnojit\obj\Debug\net8.0\umnojit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student2\source\repos\umnojit\umnojit\obj\Debug\net8.0\umnojit.AssemblyInfoInputs.cache
+C:\Users\Student2\source\repos\umnojit\umnojit\obj\Debug\net8.0\umnojit.AssemblyInfo.cs
+C:\Users\Student2\source\repos\umnojit\umnojit\obj\Debug\net8.0\umnojit.csproj.CoreCompileInputs.cache
+C:\Users\Student2\source\repos\umnojit\umnojit\obj\Debug\net8.0\umnojit.dll
+C:\Users\Student2\source\repos\umnojit\umnojit\obj\Debug\net8.0\refint\umnojit.dll
+C:\Users\Student2\source\repos\umnojit\umnojit\obj\Debug\net8.0\umnojit.pdb
+C:\Users\Student2\source\repos\umnojit\umnojit\obj\Debug\net8.0\umnojit.genruntimeconfig.cache
+C:\Users\Student2\source\repos\umnojit\umnojit\obj\Debug\net8.0\ref\umnojit.dll
