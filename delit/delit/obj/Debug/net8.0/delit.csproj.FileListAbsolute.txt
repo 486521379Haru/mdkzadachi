@@ -1,0 +1,14 @@
+C:\Users\Student2\source\repos\delit\delit\bin\Debug\net8.0\delit.exe
+C:\Users\Student2\source\repos\delit\delit\bin\Debug\net8.0\delit.deps.json
+C:\Users\Student2\source\repos\delit\delit\bin\Debug\net8.0\delit.runtimeconfig.json
+C:\Users\Student2\source\repos\delit\delit\bin\Debug\net8.0\delit.dll
+C:\Users\Student2\source\repos\delit\delit\bin\Debug\net8.0\delit.pdb
+C:\Users\Student2\source\repos\delit\delit\obj\Debug\net8.0\delit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student2\source\repos\delit\delit\obj\Debug\net8.0\delit.AssemblyInfoInputs.cache
+C:\Users\Student2\source\repos\delit\delit\obj\Debug\net8.0\delit.AssemblyInfo.cs
+C:\Users\Student2\source\repos\delit\delit\obj\Debug\net8.0\delit.csproj.CoreCompileInputs.cache
+C:\Users\Student2\source\repos\delit\delit\obj\Debug\net8.0\delit.dll
+C:\Users\Student2\source\repos\delit\delit\obj\Debug\net8.0\refint\delit.dll
+C:\Users\Student2\source\repos\delit\delit\obj\Debug\net8.0\delit.pdb
+C:\Users\Student2\source\repos\delit\delit\obj\Debug\net8.0\delit.genruntimeconfig.cache
+C:\Users\Student2\source\repos\delit\delit\obj\Debug\net8.0\ref\delit.dll
