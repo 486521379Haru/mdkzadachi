@@ -12,3 +12,17 @@ C:\Users\Student2\source\repos\delit\delit\obj\Debug\net8.0\refint\delit.dll
 C:\Users\Student2\source\repos\delit\delit\obj\Debug\net8.0\delit.pdb
 C:\Users\Student2\source\repos\delit\delit\obj\Debug\net8.0\delit.genruntimeconfig.cache
 C:\Users\Student2\source\repos\delit\delit\obj\Debug\net8.0\ref\delit.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\delit\delit\bin\Debug\net8.0\delit.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\delit\delit\bin\Debug\net8.0\delit.deps.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\delit\delit\bin\Debug\net8.0\delit.runtimeconfig.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\delit\delit\bin\Debug\net8.0\delit.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\delit\delit\bin\Debug\net8.0\delit.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\delit\delit\obj\Debug\net8.0\delit.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\delit\delit\obj\Debug\net8.0\delit.AssemblyInfoInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\delit\delit\obj\Debug\net8.0\delit.AssemblyInfo.cs
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\delit\delit\obj\Debug\net8.0\delit.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\delit\delit\obj\Debug\net8.0\delit.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\delit\delit\obj\Debug\net8.0\refint\delit.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\delit\delit\obj\Debug\net8.0\delit.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\delit\delit\obj\Debug\net8.0\delit.genruntimeconfig.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\delit\delit\obj\Debug\net8.0\ref\delit.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student2\\source\\repos\\delit\\delit\\delit.csproj": {}
+    "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\ФЕДОРОВ ШИШОВ\\delit\\delit\\delit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student2\\source\\repos\\delit\\delit\\delit.csproj": {
+    "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\ФЕДОРОВ ШИШОВ\\delit\\delit\\delit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student2\\source\\repos\\delit\\delit\\delit.csproj",
+        "projectUniqueName": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\ФЕДОРОВ ШИШОВ\\delit\\delit\\delit.csproj",
         "projectName": "delit",
-        "projectPath": "C:\\Users\\Student2\\source\\repos\\delit\\delit\\delit.csproj",
+        "projectPath": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\ФЕДОРОВ ШИШОВ\\delit\\delit\\delit.csproj",
         "packagesPath": "C:\\Users\\Student2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student2\\source\\repos\\delit\\delit\\obj\\",
+        "outputPath": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\ФЕДОРОВ ШИШОВ\\delit\\delit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student2\\AppData\\Roaming\\NuGet\\NuGet.Config",
