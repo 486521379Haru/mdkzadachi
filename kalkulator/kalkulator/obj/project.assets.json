@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student2\\source\\repos\\kalkulator\\kalkulator\\kalkulator.csproj",
+      "projectUniqueName": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\ФЕДОРОВ ШИШОВ\\kalkulator\\kalkulator\\kalkulator.csproj",
       "projectName": "kalkulator",
-      "projectPath": "C:\\Users\\Student2\\source\\repos\\kalkulator\\kalkulator\\kalkulator.csproj",
+      "projectPath": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\ФЕДОРОВ ШИШОВ\\kalkulator\\kalkulator\\kalkulator.csproj",
       "packagesPath": "C:\\Users\\Student2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student2\\source\\repos\\kalkulator\\kalkulator\\obj\\",
+      "outputPath": "\\\\192.168.3.250\\Veda\\3 курс\\ИСП 33-9, ИСП 34-11\\МДК 03.01\\ФЕДОРОВ ШИШОВ\\kalkulator\\kalkulator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Student2\\AppData\\Roaming\\NuGet\\NuGet.Config",

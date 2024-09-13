@@ -12,3 +12,17 @@ C:\Users\Student2\source\repos\kalkulator\kalkulator\obj\Debug\net8.0\refint\kal
 C:\Users\Student2\source\repos\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.pdb
 C:\Users\Student2\source\repos\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.genruntimeconfig.cache
 C:\Users\Student2\source\repos\kalkulator\kalkulator\obj\Debug\net8.0\ref\kalkulator.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.deps.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.runtimeconfig.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfoInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfo.cs
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\kalkulator\kalkulator\obj\Debug\net8.0\refint\kalkulator.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.genruntimeconfig.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\ФЕДОРОВ ШИШОВ\kalkulator\kalkulator\obj\Debug\net8.0\ref\kalkulator.dll
