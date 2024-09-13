@@ -1,0 +1,14 @@
+C:\Users\Student2\source\repos\minus\minus\bin\Debug\net8.0\minus.exe
+C:\Users\Student2\source\repos\minus\minus\bin\Debug\net8.0\minus.deps.json
+C:\Users\Student2\source\repos\minus\minus\bin\Debug\net8.0\minus.runtimeconfig.json
+C:\Users\Student2\source\repos\minus\minus\bin\Debug\net8.0\minus.dll
+C:\Users\Student2\source\repos\minus\minus\bin\Debug\net8.0\minus.pdb
+C:\Users\Student2\source\repos\minus\minus\obj\Debug\net8.0\minus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student2\source\repos\minus\minus\obj\Debug\net8.0\minus.AssemblyInfoInputs.cache
+C:\Users\Student2\source\repos\minus\minus\obj\Debug\net8.0\minus.AssemblyInfo.cs
+C:\Users\Student2\source\repos\minus\minus\obj\Debug\net8.0\minus.csproj.CoreCompileInputs.cache
+C:\Users\Student2\source\repos\minus\minus\obj\Debug\net8.0\minus.dll
+C:\Users\Student2\source\repos\minus\minus\obj\Debug\net8.0\refint\minus.dll
+C:\Users\Student2\source\repos\minus\minus\obj\Debug\net8.0\minus.pdb
+C:\Users\Student2\source\repos\minus\minus\obj\Debug\net8.0\minus.genruntimeconfig.cache
+C:\Users\Student2\source\repos\minus\minus\obj\Debug\net8.0\ref\minus.dll
